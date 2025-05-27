@@ -1,0 +1,11 @@
+{
+    "name": "contratos",
+    "version": "24.16.2",
+    "description": "contratos",
+    "license": "SEE LICENSE IN LICENSE.md",
+    "private": true,
+    "dependencies": {},
+    "engines": {
+        "node": ">=18"
+    }
+}

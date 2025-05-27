@@ -1,0 +1,2256 @@
+<ew-language date="2025/5/23" id="en-US" author="e.World Technology Limited">
+  <project>
+    <phrase id="bodytitle" value="SISTEMA DE PRECIFICAÇÃO - CONTRATOS" />
+    <phrase id="footertext" value="&amp;copy;Wander - Out/2023. Diretos Reservados." />
+    <menu id="6">
+      <phrase id="menutext" value="Clientes" />
+    </menu>
+    <menu id="103">
+      <phrase id="menutext" value="Contratos" />
+    </menu>
+    <menu id="284">
+      <phrase id="menutext" value="view rel cargo custo indv" />
+    </menu>
+    <menu id="221">
+      <phrase id="menutext" value="Dissidio" />
+    </menu>
+    <menu id="222">
+      <phrase id="menutext" value="view contrato valor atualizado" />
+    </menu>
+    <menu id="10">
+      <phrase id="menutext" value="Tabelas" />
+    </menu>
+    <menu id="2">
+      <phrase id="menutext" value="Cargos" />
+    </menu>
+    <menu id="4">
+      <phrase id="menutext" value="Periodos" />
+    </menu>
+    <menu id="5">
+      <phrase id="menutext" value="Escalas" />
+    </menu>
+    <menu id="7">
+      <phrase id="menutext" value="Insumos" />
+    </menu>
+    <menu id="3">
+      <phrase id="menutext" value="Modulos" />
+    </menu>
+    <menu id="12">
+      <phrase id="menutext" value="Uniformes" />
+    </menu>
+    <menu id="14">
+      <phrase id="menutext" value="Uniforme x Cargo" />
+    </menu>
+    <menu id="216">
+      <phrase id="menutext" value="Pessoal [IMPORT]" />
+    </menu>
+    <menu id="170">
+      <phrase id="menutext" value="Funções" />
+    </menu>
+    <menu id="171">
+      <phrase id="menutext" value="Local" />
+    </menu>
+    <menu id="8">
+      <phrase id="menutext" value="Tipo Insumo" />
+    </menu>
+    <menu id="38">
+      <phrase id="menutext" value="Uniforme x Cargo" />
+    </menu>
+    <menu id="34">
+      <phrase id="menutext" value="Tipo Intrajornada" />
+    </menu>
+    <menu id="114">
+      <phrase id="menutext" value="Recalcular" />
+    </menu>
+    <menu id="61">
+      <phrase id="menutext" value="Relatorios" />
+    </menu>
+    <menu id="283">
+      <phrase id="menutext" value="1-Contratos" />
+    </menu>
+    <menu id="105">
+      <phrase id="menutext" value="1.1-Contratos Ativos" />
+    </menu>
+    <menu id="223">
+      <phrase id="menutext" value="1.2-Contrato x Dissidio" />
+    </menu>
+    <menu id="350">
+      <phrase id="menutext" value="1.3-Comunicado Interno [CI]" />
+    </menu>
+    <menu id="285">
+      <phrase id="menutext" value="1.4-Custo x Cargo/Função" />
+    </menu>
+    <menu id="111">
+      <phrase id="menutext" value="1.5-Efetivo por Contrato" />
+    </menu>
+    <menu id="118">
+      <phrase id="menutext" value="1.6-Insumos x Contratos" />
+    </menu>
+    <menu id="95">
+      <phrase id="menutext" value="1.7-Insumos [Detalhado]" />
+    </menu>
+    <menu id="116">
+      <phrase id="menutext" value="1.8-Lucro/Prejuizo - Contratos" />
+    </menu>
+    <menu id="15">
+      <phrase id="menutext" value="2-Custo Salario x Cargos" />
+    </menu>
+    <menu id="115">
+      <phrase id="menutext" value="3-Orçamento Mensal" />
+    </menu>
+    <menu id="100">
+      <phrase id="menutext" value="Comunicado Interno" />
+    </menu>
+    <menu id="43">
+      <phrase id="menutext" value="4-Planilha [Individual]" />
+    </menu>
+    <menu id="62">
+      <phrase id="menutext" value="5-Proposta [Detalhada]" />
+    </menu>
+    <menu id="169">
+      <phrase id="menutext" value="6-Uniformes" />
+    </menu>
+    <menu id="40">
+      <phrase id="menutext" value="10.1-Uniforme Consolidado" />
+    </menu>
+    <menu id="41">
+      <phrase id="menutext" value="10.2-Uniforme Detalhado" />
+    </menu>
+    <menu id="65">
+      <phrase id="menutext" value="10.3-Uniformes x Contrato" />
+    </menu>
+    <menu id="108">
+      <phrase id="menutext" value="Lucro/Prejuizo - Contratos" />
+    </menu>
+    <menu id="167">
+      <phrase id="menutext" value="Propostas" />
+    </menu>
+    <menu id="218">
+      <phrase id="menutext" value="cargo copy" />
+    </menu>
+    <menu id="92">
+      <phrase id="menutext" value="Segurança" />
+    </menu>
+    <menu id="93">
+      <phrase id="menutext" value="Tabelas" />
+    </menu>
+    <menu id="66">
+      <phrase id="menutext" value="Usuários" />
+    </menu>
+    <menu id="94">
+      <phrase id="menutext" value="Permissões" />
+    </menu>
+    <menu id="219">
+      <phrase id="menutext" value="Salario Atual" />
+    </menu>
+    <menu id="220">
+      <phrase id="menutext" value="Beneficios" />
+    </menu>
+    <menu id="217">
+      <phrase id="menutext" value="view export previsto" />
+    </menu>
+    <menu id="117">
+      <phrase id="menutext" value="view rel insumos contratos" />
+    </menu>
+    <menu id="35">
+      <phrase id="menutext" value="Propostas" />
+    </menu>
+    <menu id="101">
+      <phrase id="menutext" value="Plan Custo Contratos" />
+    </menu>
+    <menu id="102">
+      <phrase id="menutext" value="Insumos" />
+    </menu>
+    <menu id="112">
+      <phrase id="menutext" value="view mov pla custo modulos" />
+    </menu>
+    <menu id="97">
+      <phrase id="menutext" value="Faturamento" />
+    </menu>
+    <menu id="36">
+      <phrase id="menutext" value="Insumo Mensal Anual" />
+    </menu>
+    <menu id="109">
+      <phrase id="menutext" value="view efetivo previsto" />
+    </menu>
+    <menu id="13">
+      <phrase id="menutext" value="Insumos" />
+    </menu>
+    <menu id="104">
+      <phrase id="menutext" value="view contratos" />
+    </menu>
+    <menu id="99">
+      <phrase id="menutext" value="view comunicado interno" />
+    </menu>
+    <menu id="98">
+      <phrase id="menutext" value="rel teste" />
+    </menu>
+    <menu id="96">
+      <phrase id="menutext" value="Contatos" />
+    </menu>
+    <menu id="32">
+      <phrase id="menutext" value="Visões" />
+    </menu>
+    <menu id="42">
+      <phrase id="menutext" value="view rel planilha custo" />
+    </menu>
+    <menu id="64">
+      <phrase id="menutext" value="view uniforme cargo pla custo" />
+    </menu>
+    <menu id="63">
+      <phrase id="menutext" value="view insumo proposta consolidado" />
+    </menu>
+    <menu id="1">
+      <phrase id="menutext" value="Planilha de Custo" />
+    </menu>
+    <menu id="11">
+      <phrase id="menutext" value="Composição" />
+    </menu>
+    <menu id="9">
+      <phrase id="menutext" value="Sub Módulos" />
+    </menu>
+    <table id="cargo">
+      <phrase id="tblcaption" value="Cargos" />
+      <phrase id="tblpagecaption1" value="Identificação" />
+      <phrase id="tblpagecaption2" value="Escala/Jornada" />
+      <phrase id="tblpagecaption3" value="Beneficios" />
+      <field id="idcargo">
+        <phrase id="fldcaption" value="idcargo" />
+      </field>
+      <field id="cargo">
+        <phrase id="fldcaption" value="Cargo" />
+      </field>
+      <field id="abreviado">
+        <phrase id="fldcaption" value="Sigla Cargo" />
+        <phrase id="flderrmsg" value="Já Cadastrado !!!" />
+      </field>
+      <field id="funcao_idfuncao">
+        <phrase id="fldcaption" value="De Para -&gt;" />
+      </field>
+      <field id="salario">
+        <phrase id="fldcaption" value="Salario R$" />
+      </field>
+      <field id="tipo_uniforme_idtipo_uniforme">
+        <phrase id="fldcaption" value="Uniforme" />
+      </field>
+      <field id="escala_idescala">
+        <phrase id="fldcaption" value="Escala" />
+      </field>
+      <field id="periodo_idperiodo">
+        <phrase id="fldcaption" value="Período" />
+      </field>
+      <field id="jornada">
+        <phrase id="fldcaption" value="Nr Hs/Dia" />
+      </field>
+      <field id="nr_horas_mes">
+        <phrase id="fldcaption" value="Nr Horas Mes" />
+      </field>
+      <field id="nr_horas_ad_noite">
+        <phrase id="fldcaption" value="Nr Horas Ad Not" />
+      </field>
+      <field id="intrajornada">
+        <phrase id="fldcaption" value="Intrajornada?" />
+        <phrase id="fldtagvalue1" value="Sim" />
+        <phrase id="fldtagcaption1" value="Sim" />
+        <phrase id="fldtagvalue2" value="Nao" />
+        <phrase id="fldtagcaption2" value="Nao" />
+      </field>
+      <field id="vt_dia">
+        <phrase id="fldcaption" value="VT/DIA R$" />
+      </field>
+      <field id="vr_dia">
+        <phrase id="fldcaption" value="VR/DIA R$" />
+      </field>
+      <field id="va_mes">
+        <phrase id="fldcaption" value="VA/MES R$" />
+      </field>
+      <field id="benef_social">
+        <phrase id="fldcaption" value="Benef Social R$ " />
+      </field>
+      <field id="plr">
+        <phrase id="fldcaption" value="PLR/ANO" />
+      </field>
+      <field id="assis_medica">
+        <phrase id="fldcaption" value="Pl Assist Medica R$" />
+      </field>
+      <field id="assis_odonto">
+        <phrase id="fldcaption" value="Assist Odonto R$" />
+      </field>
+      <field id="modulo_idmodulo">
+        <phrase id="fldcaption" value="Modulo" />
+      </field>
+      <field id="salario_antes">
+        <phrase id="fldcaption" value="salario antes" />
+      </field>
+      <field id="vt_dia_antes">
+        <phrase id="fldcaption" value="vt dia antes" />
+      </field>
+      <field id="vr_dia_antes">
+        <phrase id="fldcaption" value="vr dia antes" />
+      </field>
+      <field id="va_mes_antes">
+        <phrase id="fldcaption" value="va mes antes" />
+      </field>
+      <field id="benef_social_antes">
+        <phrase id="fldcaption" value="benef social antes" />
+      </field>
+      <field id="plr_antes">
+        <phrase id="fldcaption" value="plr antes" />
+      </field>
+      <field id="assis_medica_antes">
+        <phrase id="fldcaption" value="assis medica antes" />
+      </field>
+      <field id="assis_odonto_antes">
+        <phrase id="fldcaption" value="assis odonto antes" />
+      </field>
+    </table>
+    <table id="cliente">
+      <phrase id="tblcaption" value="Clientes" />
+      <field id="idcliente">
+        <phrase id="fldcaption" value="idcliente" />
+      </field>
+      <field id="dt_cadastro">
+        <phrase id="fldcaption" value="Cadastrado Em:" />
+      </field>
+      <field id="cliente">
+        <phrase id="fldcaption" value="Cliente" />
+      </field>
+      <field id="local_idlocal">
+        <phrase id="fldcaption" value="Local" />
+      </field>
+      <field id="cnpj">
+        <phrase id="fldcaption" value="CNPJ" />
+      </field>
+      <field id="endereco">
+        <phrase id="fldcaption" value="Endereço" />
+      </field>
+      <field id="numero">
+        <phrase id="fldcaption" value="Numero" />
+      </field>
+      <field id="bairro">
+        <phrase id="fldcaption" value="Bairro" />
+      </field>
+      <field id="cep">
+        <phrase id="fldcaption" value="CEP" />
+      </field>
+      <field id="cidade">
+        <phrase id="fldcaption" value="Cidade" />
+      </field>
+      <field id="uf">
+        <phrase id="fldcaption" value="UF" />
+      </field>
+      <field id="contato">
+        <phrase id="fldcaption" value="Contato" />
+      </field>
+      <field id="_email">
+        <phrase id="fldcaption" value="Email" />
+      </field>
+      <field id="telefone">
+        <phrase id="fldcaption" value="Telefone" />
+      </field>
+      <field id="ativo">
+        <phrase id="fldcaption" value="Ativo" />
+        <phrase id="fldtagvalue1" value="Sim" />
+        <phrase id="fldtagcaption1" value="Sim" />
+        <phrase id="fldtagvalue2" value="Nao" />
+        <phrase id="fldtagcaption2" value="Nao" />
+      </field>
+    </table>
+    <table id="contato">
+      <phrase id="tblcaption" value="Contatos" />
+      <field id="idcontato">
+        <phrase id="fldcaption" value="idcontato" />
+      </field>
+      <field id="contato">
+        <phrase id="fldcaption" value="Contato" />
+      </field>
+      <field id="_email">
+        <phrase id="fldcaption" value="Email" />
+      </field>
+      <field id="telefone">
+        <phrase id="fldcaption" value="Telefone" />
+      </field>
+      <field id="status">
+        <phrase id="fldcaption" value="Status" />
+        <phrase id="fldtagvalue1" value="Admistradora" />
+        <phrase id="fldtagcaption1" value="Admistradora" />
+        <phrase id="fldtagvalue2" value="Sindico" />
+        <phrase id="fldtagcaption2" value="Sindico" />
+        <phrase id="fldtagvalue3" value="Conselho" />
+        <phrase id="fldtagcaption3" value="Conselho" />
+        <phrase id="fldtagvalue4" value="Outros" />
+        <phrase id="fldtagcaption4" value="Outros" />
+      </field>
+      <field id="ativo">
+        <phrase id="fldcaption" value="Ativo?" />
+        <phrase id="fldtagvalue1" value="Sim" />
+        <phrase id="fldtagcaption1" value="Sim" />
+        <phrase id="fldtagvalue2" value="Nao" />
+        <phrase id="fldtagcaption2" value="Nao" />
+      </field>
+      <field id="faturamento_idfaturamento">
+        <phrase id="fldcaption" value="IdFaturamento" />
+      </field>
+    </table>
+    <table id="contrato">
+      <phrase id="tblcaption" value="Contratos" />
+      <field id="idcontrato">
+        <phrase id="fldcaption" value="IdContrato" />
+      </field>
+      <field id="cliente_idcliente">
+        <phrase id="fldcaption" value="Cliente" />
+        <phrase id="flderrmsg" value="Cliente Já Cadastrado !!!" />
+      </field>
+      <field id="valor">
+        <phrase id="fldcaption" value="Valor R$" />
+      </field>
+      <field id="dt_cadastro">
+        <phrase id="fldcaption" value="Dt Cadastro" />
+      </field>
+      <field id="obs">
+        <phrase id="fldcaption" value="Observação" />
+      </field>
+      <field id="ativo">
+        <phrase id="fldcaption" value="Ativo?" />
+        <phrase id="fldtagvalue1" value="Sim" />
+        <phrase id="fldtagcaption1" value="Sim" />
+        <phrase id="fldtagvalue2" value="Nao" />
+        <phrase id="fldtagcaption2" value="Nao" />
+      </field>
+      <field id="usuario_idusuario">
+        <phrase id="fldcaption" value="Usuario" />
+      </field>
+      <field id="valor_antes">
+        <phrase id="fldcaption" value="Valor Antes" />
+      </field>
+    </table>
+    <table id="escala">
+      <phrase id="tblcaption" value="Escalas" />
+      <field id="idescala">
+        <phrase id="fldcaption" value="idescala" />
+      </field>
+      <field id="escala">
+        <phrase id="fldcaption" value="Escala" />
+      </field>
+      <field id="nr_dias_mes">
+        <phrase id="fldcaption" value="Nr Dias/Mes" />
+      </field>
+      <field id="intra_sdf">
+        <phrase id="fldcaption" value="Nr Dias Intrajornada SDF" />
+      </field>
+      <field id="intra_df">
+        <phrase id="fldcaption" value="Nr Dias Intrajornada DF" />
+      </field>
+    </table>
+    <table id="faturamento">
+      <phrase id="tblcaption" value="Faturamento" />
+      <field id="idfaturamento">
+        <phrase id="fldcaption" value="idfaturamento" />
+      </field>
+      <field id="faturamento">
+        <phrase id="fldcaption" value="Razão Social" />
+      </field>
+      <field id="cnpj">
+        <phrase id="fldcaption" value="CNPJ" />
+      </field>
+      <field id="endereco">
+        <phrase id="fldcaption" value="Endereço/Nr" />
+      </field>
+      <field id="bairro">
+        <phrase id="fldcaption" value="Bairro" />
+      </field>
+      <field id="cidade">
+        <phrase id="fldcaption" value="Cidade" />
+      </field>
+      <field id="uf">
+        <phrase id="fldcaption" value="UF" />
+      </field>
+      <field id="dia_vencimento">
+        <phrase id="fldcaption" value="Dia Vencto" />
+      </field>
+      <field id="origem">
+        <phrase id="fldcaption" value="Origem" />
+        <phrase id="fldtagvalue1" value="Condominio" />
+        <phrase id="fldtagcaption1" value="Condominio" />
+        <phrase id="fldtagvalue2" value="Administradora" />
+        <phrase id="fldtagcaption2" value="Administradora" />
+      </field>
+      <field id="obs">
+        <phrase id="fldcaption" value="Observação" />
+      </field>
+      <field id="cliente_idcliente">
+        <phrase id="fldcaption" value="IdCliente" />
+      </field>
+    </table>
+    <table id="insumo">
+      <phrase id="tblcaption" value="Insumos (Materiais e Equipamentos)" />
+      <field id="idinsumo">
+        <phrase id="fldcaption" value="idinsumo" />
+      </field>
+      <field id="insumo">
+        <phrase id="fldcaption" value="Insumo" />
+      </field>
+      <field id="tipo_insumo_idtipo_insumo">
+        <phrase id="fldcaption" value="Tipo" />
+      </field>
+      <field id="vr_unitario">
+        <phrase id="fldcaption" value="Vr Unitario R$" />
+      </field>
+    </table>
+    <table id="itens_modulo">
+      <phrase id="tblcaption" value="Sub Módulos" />
+      <field id="iditens_modulo">
+        <phrase id="fldcaption" value="iditens modulo" />
+      </field>
+      <field id="modulo_idmodulo">
+        <phrase id="fldcaption" value="modulo idmodulo" />
+      </field>
+      <field id="item">
+        <phrase id="fldcaption" value="Sub Módulo" />
+      </field>
+      <field id="porcentagem_valor">
+        <phrase id="fldcaption" value="Porcentagem" />
+      </field>
+      <field id="incidencia_inss">
+        <phrase id="fldcaption" value="Incide INSS?" />
+        <phrase id="fldtagvalue1" value="Sim" />
+        <phrase id="fldtagcaption1" value="Sim" />
+        <phrase id="fldtagvalue2" value="Nao" />
+        <phrase id="fldtagcaption2" value="Nao" />
+      </field>
+      <field id="ativo">
+        <phrase id="fldcaption" value="Ativo?" />
+        <phrase id="fldtagvalue1" value="Sim" />
+        <phrase id="fldtagcaption1" value="Sim" />
+        <phrase id="fldtagvalue2" value="Nao" />
+        <phrase id="fldtagcaption2" value="Nao" />
+      </field>
+    </table>
+    <table id="modulo">
+      <phrase id="tblcaption" value="Modulos" />
+      <field id="idmodulo">
+        <phrase id="fldcaption" value="idmodulo" />
+      </field>
+      <field id="modulo">
+        <phrase id="fldcaption" value="Modulo" />
+      </field>
+      <field id="posicao">
+        <phrase id="fldcaption" value="Posição" />
+        <phrase id="flderrmsg" value="Posição Já Cadastrada !!!" />
+      </field>
+    </table>
+    <table id="mov_insumo_cliente">
+      <phrase id="tblcaption" value="Insumos" />
+      <field id="idmov_insumo_cliente">
+        <phrase id="fldcaption" value="idmov insumo cliente" />
+      </field>
+      <field id="dt_cadastro">
+        <phrase id="fldcaption" value="dt cadastro" />
+      </field>
+      <field id="tipo_insumo_idtipo_insumo">
+        <phrase id="fldcaption" value="Tipo " />
+      </field>
+      <field id="insumo_idinsumo">
+        <phrase id="fldcaption" value="Insumo" />
+      </field>
+      <field id="qtde">
+        <phrase id="fldcaption" value="Qtde" />
+      </field>
+      <field id="frequencia">
+        <phrase id="fldcaption" value="Forncecimento" />
+        <phrase id="fldtagvalue1" value="12" />
+        <phrase id="fldtagcaption1" value="Mensal" />
+        <phrase id="fldtagvalue2" value="6" />
+        <phrase id="fldtagcaption2" value="Bimestral" />
+        <phrase id="fldtagvalue3" value="4" />
+        <phrase id="fldtagcaption3" value="Trimestral" />
+        <phrase id="fldtagvalue4" value="2" />
+        <phrase id="fldtagcaption4" value="Semestral" />
+        <phrase id="fldtagvalue5" value="1" />
+        <phrase id="fldtagcaption5" value="Anual" />
+        <phrase id="fldtagvalue6" value="0.5" />
+        <phrase id="fldtagcaption6" value="2 Anos" />
+      </field>
+      <field id="vr_unit">
+        <phrase id="fldcaption" value="Vr Unitario R$" />
+      </field>
+      <field id="vr_total">
+        <phrase id="fldcaption" value="Vr Total R$" />
+      </field>
+      <field id="proposta_idproposta">
+        <phrase id="fldcaption" value="proposta idproposta" />
+      </field>
+    </table>
+    <table id="mov_insumo_contrato">
+      <phrase id="tblcaption" value="Insumos" />
+      <field id="idmov_insumo_contrato">
+        <phrase id="fldcaption" value="idmov insumo contrato" />
+      </field>
+      <field id="dt_cadastro">
+        <phrase id="fldcaption" value="Dt_Cadastro" />
+      </field>
+      <field id="tipo_insumo_idtipo_insumo">
+        <phrase id="fldcaption" value="Tipo" />
+      </field>
+      <field id="insumo_idinsumo">
+        <phrase id="fldcaption" value="Insumo" />
+      </field>
+      <field id="qtde">
+        <phrase id="fldcaption" value="Qtde" />
+      </field>
+      <field id="vr_unit">
+        <phrase id="fldcaption" value="Vr Unit R$" />
+      </field>
+      <field id="frequencia">
+        <phrase id="fldcaption" value="Fornecimento" />
+        <phrase id="fldtagvalue1" value="12" />
+        <phrase id="fldtagcaption1" value="Mensal" />
+        <phrase id="fldtagvalue2" value="6" />
+        <phrase id="fldtagcaption2" value="Bimestral" />
+        <phrase id="fldtagvalue3" value="4" />
+        <phrase id="fldtagcaption3" value="Trimetral" />
+        <phrase id="fldtagvalue4" value="2" />
+        <phrase id="fldtagcaption4" value="Semestral" />
+        <phrase id="fldtagvalue5" value="1" />
+        <phrase id="fldtagcaption5" value="Anual" />
+        <phrase id="fldtagvalue6" value="0.5" />
+        <phrase id="fldtagcaption6" value="2 Anos" />
+      </field>
+      <field id="contrato_idcontrato">
+        <phrase id="fldcaption" value="Contrato" />
+      </field>
+    </table>
+    <table id="movimento_pla_custo">
+      <phrase id="tblcaption" value="Composição" />
+      <field id="idmovimento_pla_custo">
+        <phrase id="fldcaption" value="idmovimento pla custo" />
+      </field>
+      <field id="planilha_custo_idplanilha_custo">
+        <phrase id="fldcaption" value="IdPlanilha" />
+      </field>
+      <field id="dt_cadastro">
+        <phrase id="fldcaption" value="Cadastrado Em:" />
+      </field>
+      <field id="modulo_idmodulo">
+        <phrase id="fldcaption" value="Modulo" />
+      </field>
+      <field id="itens_modulo_iditens_modulo">
+        <phrase id="fldcaption" value="SubModulo" />
+      </field>
+      <field id="porcentagem">
+        <phrase id="fldcaption" value="Percentual" />
+      </field>
+      <field id="valor">
+        <phrase id="fldcaption" value="Valor R$" />
+      </field>
+      <field id="obs">
+        <phrase id="fldcaption" value="Observação" />
+      </field>
+      <field id="calculo_idcalculo">
+        <phrase id="fldcaption" value="calculo idcalculo" />
+      </field>
+    </table>
+    <table id="periodo">
+      <phrase id="tblcaption" value="Periodos" />
+      <field id="idperiodo">
+        <phrase id="fldcaption" value="idperiodo" />
+      </field>
+      <field id="periodo">
+        <phrase id="fldcaption" value="Período" />
+      </field>
+      <field id="fator">
+        <phrase id="fldcaption" value="Fator" />
+      </field>
+    </table>
+    <table id="planilha_custo">
+      <phrase id="tblcaption" value="Planilha de Custo" />
+      <field id="idplanilha_custo">
+        <phrase id="fldcaption" value="IdPlanilha" />
+      </field>
+      <field id="proposta_idproposta">
+        <phrase id="fldcaption" value="Proposta Nr" />
+      </field>
+      <field id="dt_cadastro">
+        <phrase id="fldcaption" value="Cadastrado Em:" />
+      </field>
+      <field id="escala_idescala">
+        <phrase id="fldcaption" value="Escala" />
+      </field>
+      <field id="periodo_idperiodo">
+        <phrase id="fldcaption" value="Periodo" />
+      </field>
+      <field id="tipo_intrajornada_idtipo_intrajornada">
+        <phrase id="fldcaption" value="Intrajornada?" />
+      </field>
+      <field id="cargo_idcargo">
+        <phrase id="fldcaption" value="Cargo" />
+      </field>
+      <field id="acumulo_funcao">
+        <phrase id="fldcaption" value="Acumulo Função?" />
+        <phrase id="fldtagvalue1" value="Sim" />
+        <phrase id="fldtagcaption1" value="Sim" />
+        <phrase id="fldtagvalue2" value="Nao" />
+        <phrase id="fldtagcaption2" value="Nao" />
+      </field>
+      <field id="quantidade">
+        <phrase id="fldcaption" value="Quantidade" />
+      </field>
+      <field id="usuario_idusuario">
+        <phrase id="fldcaption" value="Usuario" />
+      </field>
+      <field id="calculo_idcalculo">
+        <phrase id="fldcaption" value="calculo idcalculo" />
+      </field>
+    </table>
+    <table id="planilha_custo_contrato">
+      <phrase id="tblcaption" value="Efetivo/Quadro" />
+      <field id="idplanilha_custo_contrato">
+        <phrase id="fldcaption" value="IdPla_Contrato" />
+      </field>
+      <field id="dt_cadastro">
+        <phrase id="fldcaption" value="Dt_Cadastro" />
+      </field>
+      <field id="quantidade">
+        <phrase id="fldcaption" value="Qtde" />
+      </field>
+      <field id="escala_idescala">
+        <phrase id="fldcaption" value="Escala" />
+      </field>
+      <field id="periodo_idperiodo">
+        <phrase id="fldcaption" value="Periodo" />
+      </field>
+      <field id="tipo_intrajornada_idtipo_intrajornada">
+        <phrase id="fldcaption" value="Intrajornada?" />
+      </field>
+      <field id="cargo_idcargo">
+        <phrase id="fldcaption" value="Cargo" />
+      </field>
+      <field id="acumulo_funcao">
+        <phrase id="fldcaption" value="Acumulo Função?" />
+        <phrase id="fldtagvalue1" value="Sim" />
+        <phrase id="fldtagcaption1" value="Sim" />
+        <phrase id="fldtagvalue2" value="Nao" />
+        <phrase id="fldtagcaption2" value="Nao" />
+      </field>
+      <field id="usuario_idusuario">
+        <phrase id="fldcaption" value="Usuario" />
+      </field>
+      <field id="contrato_idcontrato">
+        <phrase id="fldcaption" value="Contrato" />
+      </field>
+    </table>
+    <table id="proposta">
+      <phrase id="tblcaption" value="Propostas" />
+      <field id="idproposta">
+        <phrase id="fldcaption" value="Proposta Nr" />
+      </field>
+      <field id="dt_cadastro">
+        <phrase id="fldcaption" value="Cadastrada Em:" />
+      </field>
+      <field id="cliente_idcliente">
+        <phrase id="fldcaption" value="Cliente" />
+      </field>
+      <field id="validade">
+        <phrase id="fldcaption" value="Validade" />
+      </field>
+      <field id="mes_ano_conv_coletiva">
+        <phrase id="fldcaption" value="Dt Conv Coletiva" />
+      </field>
+      <field id="sindicato">
+        <phrase id="fldcaption" value="Sindicato" />
+      </field>
+      <field id="cidade">
+        <phrase id="fldcaption" value="Cidade/UF" />
+      </field>
+      <field id="nr_meses">
+        <phrase id="fldcaption" value="Nr Meses" />
+      </field>
+      <field id="usuario_idusuario">
+        <phrase id="fldcaption" value="Usuário" />
+      </field>
+      <field id="obs">
+        <phrase id="fldcaption" value="Observações" />
+      </field>
+    </table>
+    <table id="rel_comunicado_interno">
+      <phrase id="tblcaption" value="Comunicado Interno" />
+      <field id="idproposta">
+        <phrase id="fldcaption" value="idproposta" />
+      </field>
+      <field id="dt_proposta">
+        <phrase id="fldcaption" value="dt proposta" />
+      </field>
+      <field id="consultor">
+        <phrase id="fldcaption" value="consultor" />
+      </field>
+      <field id="cliente">
+        <phrase id="fldcaption" value="cliente" />
+      </field>
+      <field id="cnpj_cli">
+        <phrase id="fldcaption" value="cnpj cli" />
+      </field>
+      <field id="end_cli">
+        <phrase id="fldcaption" value="end cli" />
+      </field>
+      <field id="nr_cli">
+        <phrase id="fldcaption" value="nr cli" />
+      </field>
+      <field id="bairro_cli">
+        <phrase id="fldcaption" value="bairro cli" />
+      </field>
+      <field id="cep_cli">
+        <phrase id="fldcaption" value="cep cli" />
+      </field>
+      <field id="cidade_cli">
+        <phrase id="fldcaption" value="cidade cli" />
+      </field>
+      <field id="uf_cli">
+        <phrase id="fldcaption" value="uf cli" />
+      </field>
+      <field id="contato_cli">
+        <phrase id="fldcaption" value="contato cli" />
+      </field>
+      <field id="email_cli">
+        <phrase id="fldcaption" value="email cli" />
+      </field>
+      <field id="tel_cli">
+        <phrase id="fldcaption" value="tel cli" />
+      </field>
+      <field id="faturamento">
+        <phrase id="fldcaption" value="faturamento" />
+      </field>
+      <field id="cnpj_fat">
+        <phrase id="fldcaption" value="cnpj fat" />
+      </field>
+      <field id="end_fat">
+        <phrase id="fldcaption" value="end fat" />
+      </field>
+      <field id="bairro_fat">
+        <phrase id="fldcaption" value="bairro fat" />
+      </field>
+      <field id="cidae_fat">
+        <phrase id="fldcaption" value="cidae fat" />
+      </field>
+      <field id="uf_fat">
+        <phrase id="fldcaption" value="uf fat" />
+      </field>
+      <field id="origem_fat">
+        <phrase id="fldcaption" value="origem fat" />
+        <phrase id="fldtagvalue1" value="Condominio" />
+        <phrase id="fldtagcaption1" value="Condominio" />
+        <phrase id="fldtagvalue2" value="Administradora" />
+        <phrase id="fldtagcaption2" value="Administradora" />
+      </field>
+      <field id="dia_vencto_fat">
+        <phrase id="fldcaption" value="dia vencto fat" />
+      </field>
+      <field id="quantidade">
+        <phrase id="fldcaption" value="quantidade" />
+      </field>
+      <field id="cargo">
+        <phrase id="fldcaption" value="cargo" />
+      </field>
+      <field id="escala">
+        <phrase id="fldcaption" value="escala" />
+      </field>
+      <field id="periodo">
+        <phrase id="fldcaption" value="periodo" />
+      </field>
+      <field id="intrajornada_tipo">
+        <phrase id="fldcaption" value="intrajornada tipo" />
+      </field>
+      <field id="acumulo_funcao">
+        <phrase id="fldcaption" value="acumulo funcao" />
+        <phrase id="fldtagvalue1" value="Sim" />
+        <phrase id="fldtagcaption1" value="Sim" />
+        <phrase id="fldtagvalue2" value="Nao" />
+        <phrase id="fldtagcaption2" value="Nao" />
+      </field>
+    </table>
+    <table id="rel_cross_proposta">
+      <phrase id="tblcaption" value="Propostas x Planilhas" />
+      <field id="idproposta">
+        <phrase id="fldcaption" value="Proposta Nr" />
+      </field>
+      <field id="dt_cadastro">
+        <phrase id="fldcaption" value="Data" />
+      </field>
+      <field id="cliente">
+        <phrase id="fldcaption" value="Cliente" />
+      </field>
+      <field id="modulo">
+        <phrase id="fldcaption" value="Modulo" />
+      </field>
+      <field id="item">
+        <phrase id="fldcaption" value="Sub Modulo" />
+      </field>
+      <field id="porcentagem">
+        <phrase id="fldcaption" value="Porcentagem" />
+      </field>
+      <field id="valor">
+        <phrase id="fldcaption" value="Valor R$" />
+      </field>
+      <field id="obs">
+        <phrase id="fldcaption" value="obs" />
+      </field>
+      <field id="posicao">
+        <phrase id="fldcaption" value="posicao" />
+      </field>
+      <field id="idplanilha_custo">
+        <phrase id="fldcaption" value="Planilha Nr" />
+      </field>
+      <field id="cargo">
+        <phrase id="fldcaption" value="Função" />
+      </field>
+      <field id="sub_modulos">
+        <phrase id="fldcaption" value="sub modulos" />
+      </field>
+      <field id="idcliente">
+        <phrase id="fldcaption" value="idcliente" />
+      </field>
+    </table>
+    <table id="rel_insumo_proposta">
+      <phrase id="tblcaption" value="Insumos [Detalhado]" />
+      <field id="idmov_insumo_cliente">
+        <phrase id="fldcaption" value="idmov insumo cliente" />
+      </field>
+      <field id="proposta_idproposta">
+        <phrase id="fldcaption" value="Proposta Nr" />
+      </field>
+      <field id="cliente">
+        <phrase id="fldcaption" value="Cliente" />
+      </field>
+      <field id="insumo_idinsumo">
+        <phrase id="fldcaption" value="insumo idinsumo" />
+      </field>
+      <field id="tipo_insumo">
+        <phrase id="fldcaption" value="Tipo" />
+      </field>
+      <field id="insumo">
+        <phrase id="fldcaption" value="Insumo" />
+      </field>
+      <field id="qtde">
+        <phrase id="fldcaption" value="Fornecimento" />
+      </field>
+      <field id="frequencia">
+        <phrase id="fldcaption" value="Troca x Ano" />
+      </field>
+      <field id="vr_unit">
+        <phrase id="fldcaption" value="Vr Unitario R$" />
+      </field>
+      <field id="anual">
+        <phrase id="fldcaption" value="Vr Anual R$" />
+      </field>
+      <field id="mensal">
+        <phrase id="fldcaption" value="Vr Mensal R$" />
+      </field>
+      <field id="idtipo_idinsumo">
+        <phrase id="fldcaption" value="idtipo idinsumo" />
+      </field>
+    </table>
+    <table id="rel_planilha_custo">
+      <phrase id="tblcaption" value="Planilha Custo" />
+      <field id="idproposta">
+        <phrase id="fldcaption" value="Proposta Nr" />
+      </field>
+      <field id="dt_cadastro">
+        <phrase id="fldcaption" value="Data" />
+      </field>
+      <field id="cliente">
+        <phrase id="fldcaption" value="Cliente" />
+      </field>
+      <field id="modulo">
+        <phrase id="fldcaption" value="Módulo" />
+      </field>
+      <field id="item">
+        <phrase id="fldcaption" value="Sub Módulo" />
+      </field>
+      <field id="porcentagem">
+        <phrase id="fldcaption" value="Porcentagem" />
+      </field>
+      <field id="valor">
+        <phrase id="fldcaption" value="Valor R$ " />
+      </field>
+      <field id="obs">
+        <phrase id="fldcaption" value="Observação" />
+      </field>
+      <field id="posicao">
+        <phrase id="fldcaption" value="Posição" />
+      </field>
+      <field id="idplanilha_custo">
+        <phrase id="fldcaption" value="Planilha Nr" />
+      </field>
+      <field id="cargo">
+        <phrase id="fldcaption" value="Cargo" />
+      </field>
+      <field id="sub_modulos">
+        <phrase id="fldcaption" value="sub modulos" />
+      </field>
+      <field id="idcliente">
+        <phrase id="fldcaption" value="idcliente" />
+      </field>
+    </table>
+    <table id="rel_teste">
+      <phrase id="tblcaption" value="rel teste" />
+      <field id="idplanilha_custo">
+        <phrase id="fldcaption" value="Planilha Nr" />
+      </field>
+      <field id="proposta_idproposta">
+        <phrase id="fldcaption" value="Proposta Nr" />
+      </field>
+      <field id="dt_proposta">
+        <phrase id="fldcaption" value="Dt_Proposta" />
+      </field>
+      <field id="qtde_cargos">
+        <phrase id="fldcaption" value="Qtde Cargos" />
+      </field>
+      <field id="cargo_idcargo">
+        <phrase id="fldcaption" value="IdCargo" />
+      </field>
+      <field id="cargo">
+        <phrase id="fldcaption" value="Cargos" />
+      </field>
+      <field id="uniforme">
+        <phrase id="fldcaption" value="Uniforme" />
+      </field>
+      <field id="qtde">
+        <phrase id="fldcaption" value="Qtde/Troca" />
+      </field>
+      <field id="periodo_troca">
+        <phrase id="fldcaption" value="Perido Troca/Ano" />
+      </field>
+      <field id="vr_unitario">
+        <phrase id="fldcaption" value="Vr Unitario R$" />
+      </field>
+      <field id="tipo_uniforme">
+        <phrase id="fldcaption" value="Tipo Uniforme" />
+      </field>
+      <field id="vr_anual">
+        <phrase id="fldcaption" value="Vr Anual R$" />
+      </field>
+      <field id="vr_mesal">
+        <phrase id="fldcaption" value="Vr Mensal R$" />
+      </field>
+      <field id="cliente">
+        <phrase id="fldcaption" value="cliente" />
+      </field>
+    </table>
+    <table id="rel_view_unforme_pla_custo">
+      <phrase id="tblcaption" value="Uniformes x Contrato" />
+      <field id="idplanilha_custo">
+        <phrase id="fldcaption" value="Planilha Nr" />
+      </field>
+      <field id="proposta_idproposta">
+        <phrase id="fldcaption" value="Proposta Nr" />
+      </field>
+      <field id="cliente">
+        <phrase id="fldcaption" value="Cliente" />
+      </field>
+      <field id="dt_proposta">
+        <phrase id="fldcaption" value="Dt_Proposta" />
+      </field>
+      <field id="qtde_cargos">
+        <phrase id="fldcaption" value="Qtde Cargos" />
+      </field>
+      <field id="cargo_idcargo">
+        <phrase id="fldcaption" value="IdCargo" />
+      </field>
+      <field id="cargo">
+        <phrase id="fldcaption" value="Cargo" />
+      </field>
+      <field id="uniforme">
+        <phrase id="fldcaption" value="Uniforme" />
+      </field>
+      <field id="qtde">
+        <phrase id="fldcaption" value="Forncimento" />
+      </field>
+      <field id="periodo_troca">
+        <phrase id="fldcaption" value="Troca x Ano" />
+      </field>
+      <field id="vr_unitario">
+        <phrase id="fldcaption" value="Vr Unitario R$" />
+      </field>
+      <field id="tipo_uniforme">
+        <phrase id="fldcaption" value="Tipo Uniforme" />
+      </field>
+      <field id="vr_anual">
+        <phrase id="fldcaption" value="Vr Anual R$" />
+      </field>
+      <field id="vr_mesal">
+        <phrase id="fldcaption" value="Vr Mensal R$" />
+      </field>
+    </table>
+    <table id="tipo_insumo">
+      <phrase id="tblcaption" value="Tipo Insumo" />
+      <field id="idtipo_insumo">
+        <phrase id="fldcaption" value="idtipo insumo" />
+      </field>
+      <field id="tipo_insumo">
+        <phrase id="fldcaption" value="Tipo Insumo" />
+      </field>
+    </table>
+    <table id="tipo_intrajornada">
+      <phrase id="tblcaption" value="Tipo Intrajornada" />
+      <field id="idtipo_intrajornada">
+        <phrase id="fldcaption" value="idtipo intrajornada" />
+      </field>
+      <field id="intrajornada_tipo">
+        <phrase id="fldcaption" value="Intrajornada" />
+      </field>
+    </table>
+    <table id="tipo_uniforme">
+      <phrase id="tblcaption" value="Tipo Uniforme" />
+      <field id="idtipo_uniforme">
+        <phrase id="fldcaption" value="idtipo uniforme" />
+      </field>
+      <field id="tipo_uniforme">
+        <phrase id="fldcaption" value="Tipo Uniforme" />
+      </field>
+    </table>
+    <table id="uniforme">
+      <phrase id="tblcaption" value="Uniforme" />
+      <field id="iduniforme">
+        <phrase id="fldcaption" value="iduniforme" />
+      </field>
+      <field id="uniforme">
+        <phrase id="fldcaption" value="Uniforme" />
+      </field>
+      <field id="qtde">
+        <phrase id="fldcaption" value="Qtde" />
+      </field>
+      <field id="periodo_troca">
+        <phrase id="fldcaption" value="Fornecimento" />
+        <phrase id="fldtagvalue1" value="12" />
+        <phrase id="fldtagcaption1" value="Mensal" />
+        <phrase id="fldtagvalue2" value="6" />
+        <phrase id="fldtagcaption2" value="Bimestral" />
+        <phrase id="fldtagvalue3" value="4" />
+        <phrase id="fldtagcaption3" value="Trimestral" />
+        <phrase id="fldtagvalue4" value="2" />
+        <phrase id="fldtagcaption4" value="Semestral" />
+        <phrase id="fldtagvalue5" value="1" />
+        <phrase id="fldtagcaption5" value="Anual" />
+      </field>
+      <field id="vr_unitario">
+        <phrase id="fldcaption" value="Vr Unitário R$" />
+      </field>
+      <field id="vr_total">
+        <phrase id="fldcaption" value="Vr Anual R$" />
+      </field>
+    </table>
+    <table id="uniforme_cargo">
+      <phrase id="tblcaption" value="Uniforme x Cargo" />
+      <field id="iduniforme_cargo">
+        <phrase id="fldcaption" value="iduniforme cargo" />
+      </field>
+      <field id="uniforme_iduniforme">
+        <phrase id="fldcaption" value="Uniforme" />
+      </field>
+      <field id="tipo_uniforme_idtipo_uniforme">
+        <phrase id="fldcaption" value="Destinação" />
+      </field>
+    </table>
+    <table id="userlevelpermissions">
+      <phrase id="tblcaption" value="Tabelas" />
+      <field id="userlevelid">
+        <phrase id="fldcaption" value="User Level ID" />
+      </field>
+      <field id="_tablename">
+        <phrase id="fldcaption" value="Tabela" />
+      </field>
+      <field id="_permission">
+        <phrase id="fldcaption" value="Permissões" />
+      </field>
+    </table>
+    <table id="userlevels">
+      <phrase id="tblcaption" value="Permissões" />
+      <field id="userlevelid">
+        <phrase id="fldcaption" value="User Level ID" />
+      </field>
+      <field id="userlevelname">
+        <phrase id="fldcaption" value="Status" />
+      </field>
+    </table>
+    <table id="usuario">
+      <phrase id="tblcaption" value="Usuários" />
+      <field id="idusuario">
+        <phrase id="fldcaption" value="idusuario" />
+      </field>
+      <field id="_login">
+        <phrase id="fldcaption" value="Login" />
+        <phrase id="flderrmsg" value="Lo0gin Já Cadastradom !!!" />
+      </field>
+      <field id="senha">
+        <phrase id="fldcaption" value="Senha" />
+      </field>
+      <field id="_userlevel">
+        <phrase id="fldcaption" value="UserLevel" />
+      </field>
+      <field id="ativo">
+        <phrase id="fldcaption" value="Ativo?" />
+        <phrase id="fldtagvalue1" value="Sim" />
+        <phrase id="fldtagcaption1" value="Sim" />
+        <phrase id="fldtagvalue2" value="Nao" />
+        <phrase id="fldtagcaption2" value="Nao" />
+      </field>
+    </table>
+    <table id="view_comunicado_interno">
+      <phrase id="tblcaption" value="view comunicado interno" />
+      <field id="idproposta">
+        <phrase id="fldcaption" value="idproposta" />
+      </field>
+      <field id="dt_proposta">
+        <phrase id="fldcaption" value="dt proposta" />
+      </field>
+      <field id="consultor">
+        <phrase id="fldcaption" value="consultor" />
+      </field>
+      <field id="cliente">
+        <phrase id="fldcaption" value="cliente" />
+      </field>
+      <field id="cnpj_cli">
+        <phrase id="fldcaption" value="cnpj cli" />
+      </field>
+      <field id="end_cli">
+        <phrase id="fldcaption" value="end cli" />
+      </field>
+      <field id="nr_cli">
+        <phrase id="fldcaption" value="nr cli" />
+      </field>
+      <field id="bairro_cli">
+        <phrase id="fldcaption" value="bairro cli" />
+      </field>
+      <field id="cep_cli">
+        <phrase id="fldcaption" value="cep cli" />
+      </field>
+      <field id="cidade_cli">
+        <phrase id="fldcaption" value="cidade cli" />
+      </field>
+      <field id="uf_cli">
+        <phrase id="fldcaption" value="uf cli" />
+      </field>
+      <field id="contato_cli">
+        <phrase id="fldcaption" value="contato cli" />
+      </field>
+      <field id="email_cli">
+        <phrase id="fldcaption" value="email cli" />
+      </field>
+      <field id="tel_cli">
+        <phrase id="fldcaption" value="tel cli" />
+      </field>
+      <field id="faturamento">
+        <phrase id="fldcaption" value="faturamento" />
+      </field>
+      <field id="cnpj_fat">
+        <phrase id="fldcaption" value="cnpj fat" />
+      </field>
+      <field id="end_fat">
+        <phrase id="fldcaption" value="end fat" />
+      </field>
+      <field id="bairro_fat">
+        <phrase id="fldcaption" value="bairro fat" />
+      </field>
+      <field id="cidae_fat">
+        <phrase id="fldcaption" value="cidae fat" />
+      </field>
+      <field id="uf_fat">
+        <phrase id="fldcaption" value="uf fat" />
+      </field>
+      <field id="origem_fat">
+        <phrase id="fldcaption" value="origem fat" />
+        <phrase id="fldtagvalue1" value="Condominio" />
+        <phrase id="fldtagcaption1" value="Condominio" />
+        <phrase id="fldtagvalue2" value="Administradora" />
+        <phrase id="fldtagcaption2" value="Administradora" />
+      </field>
+      <field id="dia_vencto_fat">
+        <phrase id="fldcaption" value="dia vencto fat" />
+      </field>
+      <field id="quantidade">
+        <phrase id="fldcaption" value="quantidade" />
+      </field>
+      <field id="cargo">
+        <phrase id="fldcaption" value="cargo" />
+      </field>
+      <field id="escala">
+        <phrase id="fldcaption" value="escala" />
+      </field>
+      <field id="periodo">
+        <phrase id="fldcaption" value="periodo" />
+      </field>
+      <field id="intrajornada_tipo">
+        <phrase id="fldcaption" value="intrajornada tipo" />
+      </field>
+      <field id="acumulo_funcao">
+        <phrase id="fldcaption" value="acumulo funcao" />
+        <phrase id="fldtagvalue1" value="Sim" />
+        <phrase id="fldtagcaption1" value="Sim" />
+        <phrase id="fldtagvalue2" value="Nao" />
+        <phrase id="fldtagcaption2" value="Nao" />
+      </field>
+    </table>
+    <table id="view_custo_salario">
+      <phrase id="tblcaption" value="Custo Salario x Cargos" />
+      <field id="idcargo">
+        <phrase id="fldcaption" value="idcargo" />
+      </field>
+      <field id="cargo">
+        <phrase id="fldcaption" value="Cargo" />
+      </field>
+      <field id="salario">
+        <phrase id="fldcaption" value="Salario R$" />
+      </field>
+      <field id="nr_horas_mes">
+        <phrase id="fldcaption" value="nr horas mes" />
+      </field>
+      <field id="nr_horas_ad_noite">
+        <phrase id="fldcaption" value="nr horas ad noite" />
+      </field>
+      <field id="escala_idescala">
+        <phrase id="fldcaption" value="Escala" />
+      </field>
+      <field id="escala">
+        <phrase id="fldcaption" value="Escala" />
+      </field>
+      <field id="periodo_idperiodo">
+        <phrase id="fldcaption" value="periodo idperiodo" />
+      </field>
+      <field id="periodo">
+        <phrase id="fldcaption" value="Periodo" />
+      </field>
+      <field id="jornada">
+        <phrase id="fldcaption" value="Nr Hs/Dia" />
+      </field>
+      <field id="fator">
+        <phrase id="fldcaption" value="fator" />
+      </field>
+      <field id="nr_dias_mes">
+        <phrase id="fldcaption" value="Nr Dias/Mes" />
+      </field>
+      <field id="intra_sdf">
+        <phrase id="fldcaption" value="Intra SDF" />
+      </field>
+      <field id="intra_df">
+        <phrase id="fldcaption" value="Intra DF" />
+      </field>
+      <field id="ad_noite">
+        <phrase id="fldcaption" value="Ad Noite" />
+      </field>
+      <field id="dsr_ad_noite">
+        <phrase id="fldcaption" value="DSR-Ad Noite" />
+      </field>
+      <field id="he_50">
+        <phrase id="fldcaption" value="HE 50%" />
+      </field>
+      <field id="dsr_he_50">
+        <phrase id="fldcaption" value="DSR-HE 50%" />
+      </field>
+      <field id="intra_todos">
+        <phrase id="fldcaption" value="Intra-Tds Dias" />
+      </field>
+      <field id="intra_sabdomfer">
+        <phrase id="fldcaption" value="Intra-SDF" />
+      </field>
+      <field id="intra_domfer">
+        <phrase id="fldcaption" value="Intra-Dom/Fer" />
+      </field>
+      <field id="vt_dia">
+        <phrase id="fldcaption" value="VT/DIA" />
+      </field>
+      <field id="vr_dia">
+        <phrase id="fldcaption" value="VR/DIA" />
+      </field>
+      <field id="va_mes">
+        <phrase id="fldcaption" value="VA/MES" />
+      </field>
+      <field id="benef_social">
+        <phrase id="fldcaption" value="Benef Social" />
+      </field>
+      <field id="plr_mes">
+        <phrase id="fldcaption" value="PLR/Mes" />
+      </field>
+      <field id="assis_medica">
+        <phrase id="fldcaption" value="Assist Medica" />
+      </field>
+      <field id="assis_odonto">
+        <phrase id="fldcaption" value="Assist Odonto" />
+      </field>
+      <field id="desc_vt">
+        <phrase id="fldcaption" value="Desc VT/Mes" />
+      </field>
+      <field id="abreviado">
+        <phrase id="fldcaption" value="abreviado" />
+      </field>
+    </table>
+    <table id="view_insumo_proposta_consolidado">
+      <phrase id="tblcaption" value="view insumo proposta consolidado" />
+      <field id="proposta_idproposta">
+        <phrase id="fldcaption" value="proposta idproposta" />
+      </field>
+      <field id="idtipo_idinsumo">
+        <phrase id="fldcaption" value="idtipo idinsumo" />
+      </field>
+      <field id="tipo_insumo">
+        <phrase id="fldcaption" value="tipo insumo" />
+      </field>
+      <field id="vr_anual">
+        <phrase id="fldcaption" value="vr anual" />
+      </field>
+      <field id="vr_mensal">
+        <phrase id="fldcaption" value="vr mensal" />
+      </field>
+    </table>
+    <table id="view_insumo_proposta_detalhada">
+      <phrase id="tblcaption" value="Insumo Mensal Anual" />
+      <field id="idmov_insumo_cliente">
+        <phrase id="fldcaption" value="idmov insumo cliente" />
+      </field>
+      <field id="proposta_idproposta">
+        <phrase id="fldcaption" value="proposta idproposta" />
+      </field>
+      <field id="insumo_idinsumo">
+        <phrase id="fldcaption" value="insumo idinsumo" />
+      </field>
+      <field id="tipo_insumo">
+        <phrase id="fldcaption" value="tipo insumo" />
+      </field>
+      <field id="insumo">
+        <phrase id="fldcaption" value="insumo" />
+      </field>
+      <field id="qtde">
+        <phrase id="fldcaption" value="qtde" />
+      </field>
+      <field id="vr_unit">
+        <phrase id="fldcaption" value="vr unit" />
+      </field>
+      <field id="frequencia">
+        <phrase id="fldcaption" value="frequencia" />
+      </field>
+      <field id="anual">
+        <phrase id="fldcaption" value="anual" />
+      </field>
+      <field id="mensal">
+        <phrase id="fldcaption" value="mensal" />
+      </field>
+      <field id="idtipo_idinsumo">
+        <phrase id="fldcaption" value="idtipo idinsumo" />
+      </field>
+      <field id="cliente">
+        <phrase id="fldcaption" value="cliente" />
+      </field>
+    </table>
+    <table id="view_rel_planilha_custo">
+      <phrase id="tblcaption" value="view rel planilha custo" />
+      <field id="idproposta">
+        <phrase id="fldcaption" value="idproposta" />
+      </field>
+      <field id="dt_cadastro">
+        <phrase id="fldcaption" value="dt cadastro" />
+      </field>
+      <field id="cliente">
+        <phrase id="fldcaption" value="cliente" />
+      </field>
+      <field id="modulo">
+        <phrase id="fldcaption" value="modulo" />
+      </field>
+      <field id="item">
+        <phrase id="fldcaption" value="item" />
+      </field>
+      <field id="porcentagem">
+        <phrase id="fldcaption" value="porcentagem" />
+      </field>
+      <field id="valor">
+        <phrase id="fldcaption" value="valor" />
+      </field>
+      <field id="obs">
+        <phrase id="fldcaption" value="obs" />
+      </field>
+      <field id="posicao">
+        <phrase id="fldcaption" value="posicao" />
+      </field>
+      <field id="idplanilha_custo">
+        <phrase id="fldcaption" value="Planilha Nr" />
+      </field>
+      <field id="cargo">
+        <phrase id="fldcaption" value="cargo" />
+      </field>
+      <field id="sub_modulos">
+        <phrase id="fldcaption" value="sub modulos" />
+      </field>
+      <field id="idcliente">
+        <phrase id="fldcaption" value="idcliente" />
+      </field>
+    </table>
+    <table id="view_uniforme_cargo_consolidado">
+      <phrase id="tblcaption" value="Uniforme Consolidado" />
+      <field id="idcargo">
+        <phrase id="fldcaption" value="IdCargo" />
+      </field>
+      <field id="cargo">
+        <phrase id="fldcaption" value="Cargo" />
+      </field>
+      <field id="tipo_uniforme">
+        <phrase id="fldcaption" value="Tipo Uniforme" />
+      </field>
+      <field id="vr_anual">
+        <phrase id="fldcaption" value="Vr Anual R$" />
+      </field>
+      <field id="vr_mensal">
+        <phrase id="fldcaption" value="Vr Mensal R$" />
+      </field>
+    </table>
+    <table id="view_uniforme_cargo_detalhada">
+      <phrase id="tblcaption" value="Uniforme Detalhado" />
+      <field id="iduniforme_cargo">
+        <phrase id="fldcaption" value="iduniforme cargo" />
+      </field>
+      <field id="uniforme_iduniforme">
+        <phrase id="fldcaption" value="Uniforme" />
+      </field>
+      <field id="cargo">
+        <phrase id="fldcaption" value="Cargo" />
+      </field>
+      <field id="idcargo">
+        <phrase id="fldcaption" value="Cargo" />
+      </field>
+      <field id="tipo_uniforme">
+        <phrase id="fldcaption" value="Tipo Uniforme" />
+      </field>
+      <field id="tipo_uniforme_idtipo_uniforme">
+        <phrase id="fldcaption" value="Destinação" />
+      </field>
+      <field id="uniforme">
+        <phrase id="fldcaption" value="Uniforme" />
+      </field>
+      <field id="qtde">
+        <phrase id="fldcaption" value="Qtde" />
+      </field>
+      <field id="periodo_troca">
+        <phrase id="fldcaption" value="Fornecimento" />
+      </field>
+      <field id="vr_unitario">
+        <phrase id="fldcaption" value="Vr Unitario R$" />
+      </field>
+      <field id="vr_mensal">
+        <phrase id="fldcaption" value="Vr Mensal R$" />
+      </field>
+      <field id="vr_anual">
+        <phrase id="fldcaption" value="Vr Anual R$" />
+      </field>
+    </table>
+    <table id="view_uniforme_cargo_pla_custo">
+      <phrase id="tblcaption" value="view uniforme cargo pla custo" />
+      <field id="idplanilha_custo">
+        <phrase id="fldcaption" value="Planilha Nr" />
+      </field>
+      <field id="proposta_idproposta">
+        <phrase id="fldcaption" value="Proposta Nr" />
+      </field>
+      <field id="dt_proposta">
+        <phrase id="fldcaption" value="Dt_Proposta" />
+      </field>
+      <field id="qtde_cargos">
+        <phrase id="fldcaption" value="Qtde Cargos" />
+      </field>
+      <field id="cargo_idcargo">
+        <phrase id="fldcaption" value="IdCargo" />
+      </field>
+      <field id="cargo">
+        <phrase id="fldcaption" value="Cargos" />
+      </field>
+      <field id="uniforme">
+        <phrase id="fldcaption" value="Uniforme" />
+      </field>
+      <field id="qtde">
+        <phrase id="fldcaption" value="Qtde/Troca" />
+      </field>
+      <field id="periodo_troca">
+        <phrase id="fldcaption" value="Perido Troca/Ano" />
+      </field>
+      <field id="vr_unitario">
+        <phrase id="fldcaption" value="Vr Unitario R$" />
+      </field>
+      <field id="tipo_uniforme">
+        <phrase id="fldcaption" value="Tipo Uniforme" />
+      </field>
+      <field id="vr_anual">
+        <phrase id="fldcaption" value="Vr Anual R$" />
+      </field>
+      <field id="vr_mesal">
+        <phrase id="fldcaption" value="Vr Mensal R$" />
+      </field>
+      <field id="cliente">
+        <phrase id="fldcaption" value="cliente" />
+      </field>
+    </table>
+    <table id="view_contratos">
+      <phrase id="tblcaption" value="view contratos" />
+      <field id="idcontrato">
+        <phrase id="fldcaption" value="idcontrato" />
+      </field>
+      <field id="cliente">
+        <phrase id="fldcaption" value="cliente" />
+      </field>
+      <field id="valor">
+        <phrase id="fldcaption" value="valor" />
+      </field>
+      <field id="ativo">
+        <phrase id="fldcaption" value="ativo" />
+        <phrase id="fldtagvalue1" value="Sim" />
+        <phrase id="fldtagcaption1" value="Sim" />
+        <phrase id="fldtagvalue2" value="Nao" />
+        <phrase id="fldtagcaption2" value="Nao" />
+      </field>
+      <field id="quantidade">
+        <phrase id="fldcaption" value="quantidade" />
+      </field>
+      <field id="cargo">
+        <phrase id="fldcaption" value="cargo" />
+      </field>
+      <field id="acumulo_funcao">
+        <phrase id="fldcaption" value="acumulo funcao" />
+        <phrase id="fldtagvalue1" value="Sim" />
+        <phrase id="fldtagcaption1" value="Sim" />
+        <phrase id="fldtagvalue2" value="Nao" />
+        <phrase id="fldtagcaption2" value="Nao" />
+      </field>
+      <field id="escala">
+        <phrase id="fldcaption" value="escala" />
+      </field>
+      <field id="periodo">
+        <phrase id="fldcaption" value="periodo" />
+      </field>
+      <field id="jornada">
+        <phrase id="fldcaption" value="jornada" />
+      </field>
+      <field id="salario">
+        <phrase id="fldcaption" value="salario" />
+      </field>
+      <field id="intrajornada_tipo">
+        <phrase id="fldcaption" value="intrajornada tipo" />
+      </field>
+      <field id="insumos">
+        <phrase id="fldcaption" value="insumos" />
+      </field>
+      <field id="cnpj">
+        <phrase id="fldcaption" value="cnpj" />
+      </field>
+      <field id="contato">
+        <phrase id="fldcaption" value="contato" />
+      </field>
+      <field id="_email">
+        <phrase id="fldcaption" value="email" />
+      </field>
+      <field id="telefone">
+        <phrase id="fldcaption" value="telefone" />
+      </field>
+      <field id="endereco">
+        <phrase id="fldcaption" value="endereco" />
+      </field>
+    </table>
+    <table id="rel_contratos">
+      <phrase id="tblcaption" value="Contratos Ativos" />
+      <field id="idcontrato">
+        <phrase id="fldcaption" value="ContratoNr" />
+      </field>
+      <field id="cliente">
+        <phrase id="fldcaption" value="Cliente" />
+      </field>
+      <field id="valor">
+        <phrase id="fldcaption" value="Vr Contrato R$" />
+      </field>
+      <field id="insumos">
+        <phrase id="fldcaption" value="Tot Insumos R$" />
+      </field>
+      <field id="quantidade">
+        <phrase id="fldcaption" value="Qtde" />
+      </field>
+      <field id="cargo">
+        <phrase id="fldcaption" value="Cargo/Função" />
+      </field>
+      <field id="salario">
+        <phrase id="fldcaption" value="Salario R$" />
+      </field>
+      <field id="acumulo_funcao">
+        <phrase id="fldcaption" value="Acumlo?" />
+        <phrase id="fldtagvalue1" value="Sim" />
+        <phrase id="fldtagcaption1" value="Sim" />
+        <phrase id="fldtagvalue2" value="Nao" />
+        <phrase id="fldtagcaption2" value="Nao" />
+      </field>
+      <field id="escala">
+        <phrase id="fldcaption" value="Escala" />
+      </field>
+      <field id="periodo">
+        <phrase id="fldcaption" value="Periodo" />
+      </field>
+      <field id="jornada">
+        <phrase id="fldcaption" value="Nr Horas" />
+      </field>
+      <field id="intrajornada_tipo">
+        <phrase id="fldcaption" value="Intrajornada" />
+      </field>
+      <field id="ativo">
+        <phrase id="fldcaption" value="Ativo?" />
+        <phrase id="fldtagvalue1" value="Sim" />
+        <phrase id="fldtagcaption1" value="Sim" />
+        <phrase id="fldtagvalue2" value="Nao" />
+        <phrase id="fldtagcaption2" value="Nao" />
+      </field>
+      <field id="cnpj">
+        <phrase id="fldcaption" value="cnpj" />
+      </field>
+      <field id="contato">
+        <phrase id="fldcaption" value="contato" />
+      </field>
+      <field id="_email">
+        <phrase id="fldcaption" value="email" />
+      </field>
+      <field id="telefone">
+        <phrase id="fldcaption" value="telefone" />
+      </field>
+      <field id="endereco">
+        <phrase id="fldcaption" value="endereco" />
+      </field>
+    </table>
+    <table id="view_lucro_prejuizo_contratos">
+      <phrase id="tblcaption" value="Lucro/Prejuizo - Contratos" />
+      <chart id="lucroxprejuizo">
+        <phrase id="chartcaption" value="Lucro x Prejuizo" />
+        <phrase id="chartxaxisname" value="Cliente" />
+        <phrase id="chartyaxisname" value="Diferença" />
+      </chart>
+      <field id="cliente">
+        <phrase id="fldcaption" value="Cliente" />
+      </field>
+      <field id="vrcobrador">
+        <phrase id="fldcaption" value="Vr Cobrado R$" />
+      </field>
+      <field id="custocalculador">
+        <phrase id="fldcaption" value="Custo Calculado R$" />
+      </field>
+      <field id="diferenca">
+        <phrase id="fldcaption" value="Diferença" />
+      </field>
+      <field id="margem">
+        <phrase id="fldcaption" value="Margem [%]" />
+      </field>
+      <field id="resultado">
+        <phrase id="fldcaption" value="Resultado" />
+      </field>
+    </table>
+    <table id="view_efetivo_previsto">
+      <phrase id="tblcaption" value="view efetivo previsto" />
+      <field id="cargo">
+        <phrase id="fldcaption" value="Cargo" />
+      </field>
+      <field id="salario">
+        <phrase id="fldcaption" value="Salario" />
+      </field>
+      <field id="escala">
+        <phrase id="fldcaption" value="Escala" />
+      </field>
+      <field id="periodo_idperiodo">
+        <phrase id="fldcaption" value="periodo idperiodo" />
+      </field>
+      <field id="jornada">
+        <phrase id="fldcaption" value="jornada" />
+      </field>
+      <field id="idcontrato">
+        <phrase id="fldcaption" value="idcontrato" />
+      </field>
+      <field id="cliente">
+        <phrase id="fldcaption" value="cliente" />
+      </field>
+      <field id="quantidade">
+        <phrase id="fldcaption" value="quantidade" />
+      </field>
+      <field id="periodo">
+        <phrase id="fldcaption" value="periodo" />
+      </field>
+      <field id="ac_funcao">
+        <phrase id="fldcaption" value="ac funcao" />
+        <phrase id="fldtagvalue1" value="Sim" />
+        <phrase id="fldtagcaption1" value="Sim" />
+        <phrase id="fldtagvalue2" value="Nao" />
+        <phrase id="fldtagcaption2" value="Nao" />
+      </field>
+      <field id="intrajornada">
+        <phrase id="fldcaption" value="intrajornada" />
+      </field>
+    </table>
+    <table id="rel_cross_efetivo_previsto">
+      <phrase id="tblcaption" value="Efetivo por Contrato" />
+      <field id="cargo">
+        <phrase id="fldcaption" value="Cargo" />
+      </field>
+      <field id="salario">
+        <phrase id="fldcaption" value="Salario" />
+      </field>
+      <field id="escala">
+        <phrase id="fldcaption" value="Escala" />
+      </field>
+      <field id="periodo_idperiodo">
+        <phrase id="fldcaption" value="periodo idperiodo" />
+      </field>
+      <field id="jornada">
+        <phrase id="fldcaption" value="Jornada" />
+      </field>
+      <field id="idcontrato">
+        <phrase id="fldcaption" value="idcontrato" />
+      </field>
+      <field id="cliente">
+        <phrase id="fldcaption" value="Cliente" />
+      </field>
+      <field id="quantidade">
+        <phrase id="fldcaption" value="Qtde" />
+      </field>
+      <field id="periodo">
+        <phrase id="fldcaption" value="Período" />
+      </field>
+      <field id="ac_funcao">
+        <phrase id="fldcaption" value="ac funcao" />
+        <phrase id="fldtagvalue1" value="Sim" />
+        <phrase id="fldtagcaption1" value="Sim" />
+        <phrase id="fldtagvalue2" value="Nao" />
+        <phrase id="fldtagcaption2" value="Nao" />
+      </field>
+      <field id="intrajornada">
+        <phrase id="fldcaption" value="intrajornada" />
+      </field>
+    </table>
+    <table id="view_mov_pla_custo_modulos">
+      <phrase id="tblcaption" value="view mov pla custo modulos" />
+      <field id="modulo">
+        <phrase id="fldcaption" value="modulo" />
+      </field>
+      <field id="valor">
+        <phrase id="fldcaption" value="valor" />
+      </field>
+      <field id="ativo">
+        <phrase id="fldcaption" value="ativo" />
+        <phrase id="fldtagvalue1" value="Sim" />
+        <phrase id="fldtagcaption1" value="Sim" />
+        <phrase id="fldtagvalue2" value="Nao" />
+        <phrase id="fldtagcaption2" value="Nao" />
+      </field>
+    </table>
+    <table id="calculo">
+      <phrase id="tblcaption" value="Recalculo Automatico - Contratos" />
+      <field id="idcalculo">
+        <phrase id="fldcaption" value="Calculo Nr" />
+      </field>
+      <field id="dt_cadastro">
+        <phrase id="fldcaption" value="Efetuado Em:" />
+      </field>
+      <field id="calculo">
+        <phrase id="fldcaption" value="Nomenclatura" />
+      </field>
+    </table>
+    <table id="rel_orcamento_mensal">
+      <phrase id="tblcaption" value="Orçamento Mensal" />
+      <chart id="orcamentomensal">
+        <phrase id="chartcaption" value="Orçamento Mensal" />
+        <phrase id="chartxaxisname" value="Modulo" />
+        <phrase id="chartyaxisname" value="Somatorio R$" />
+      </chart>
+      <field id="modulo">
+        <phrase id="fldcaption" value="Modulo" />
+      </field>
+      <field id="valor">
+        <phrase id="fldcaption" value="Somatorio R$" />
+      </field>
+      <field id="ativo">
+        <phrase id="fldcaption" value="ativo" />
+        <phrase id="fldtagvalue1" value="Sim" />
+        <phrase id="fldtagcaption1" value="Sim" />
+        <phrase id="fldtagvalue2" value="Nao" />
+        <phrase id="fldtagcaption2" value="Nao" />
+      </field>
+    </table>
+    <table id="rel_view_lucro_prejuizo">
+      <phrase id="tblcaption" value="Lucro/Prejuizo - Contratos" />
+      <chart id="lucroxprejuizo">
+        <phrase id="chartcaption" value="Lucro x Prejuizo" />
+        <phrase id="chartxaxisname" value="Cliente" />
+        <phrase id="chartyaxisname" value="Lucro/Prejuizo" />
+      </chart>
+      <field id="cliente">
+        <phrase id="fldcaption" value="Cliente" />
+      </field>
+      <field id="custocalculador">
+        <phrase id="fldcaption" value="Custo Calculado R$" />
+      </field>
+      <field id="vrcobrador">
+        <phrase id="fldcaption" value="Vr Cobrado R$" />
+      </field>
+      <field id="diferenca">
+        <phrase id="fldcaption" value="Diferença" />
+      </field>
+      <field id="margem">
+        <phrase id="fldcaption" value="Margem [%]" />
+      </field>
+      <field id="resultado">
+        <phrase id="fldcaption" value="Resultado" />
+      </field>
+    </table>
+    <table id="view_rel_insumos_contratos">
+      <phrase id="tblcaption" value="view rel insumos contratos" />
+      <field id="cliente">
+        <phrase id="fldcaption" value="cliente" />
+      </field>
+      <field id="insumo">
+        <phrase id="fldcaption" value="insumo" />
+      </field>
+      <field id="frequencia">
+        <phrase id="fldcaption" value="frequencia" />
+      </field>
+      <field id="qtde">
+        <phrase id="fldcaption" value="qtde" />
+      </field>
+      <field id="vrmensal">
+        <phrase id="fldcaption" value="Vr Mensal" />
+      </field>
+      <field id="vrtotal">
+        <phrase id="fldcaption" value="Vr Total" />
+      </field>
+      <field id="tipo_insumo">
+        <phrase id="fldcaption" value="tipo insumo" />
+      </field>
+      <field id="idcontrato">
+        <phrase id="fldcaption" value="idcontrato" />
+      </field>
+    </table>
+    <table id="rel_view_rel_insumos_contratos">
+      <phrase id="tblcaption" value="Insumos x Contratos" />
+      <field id="cliente">
+        <phrase id="fldcaption" value="Cliente" />
+      </field>
+      <field id="insumo">
+        <phrase id="fldcaption" value="Insumo" />
+      </field>
+      <field id="frequencia">
+        <phrase id="fldcaption" value="Fornecimento" />
+      </field>
+      <field id="qtde">
+        <phrase id="fldcaption" value="Qtde" />
+      </field>
+      <field id="vrmensal">
+        <phrase id="fldcaption" value="Vr Mensal" />
+      </field>
+      <field id="vrtotal">
+        <phrase id="fldcaption" value="Vr Total" />
+      </field>
+      <field id="tipo_insumo">
+        <phrase id="fldcaption" value="Tipo Insumo" />
+      </field>
+      <field id="idcontrato">
+        <phrase id="fldcaption" value="idcontrato" />
+      </field>
+    </table>
+    <table id="funcao">
+      <phrase id="tblcaption" value="Funções [Pessoal]" />
+      <field id="idfuncao">
+        <phrase id="fldcaption" value="IdFunção" />
+      </field>
+      <field id="funcao">
+        <phrase id="fldcaption" value="Função" />
+      </field>
+    </table>
+    <table id="local">
+      <phrase id="tblcaption" value="Locais [Pessoal]" />
+      <field id="idlocal">
+        <phrase id="fldcaption" value="IdLocal" />
+      </field>
+      <field id="local">
+        <phrase id="fldcaption" value="Contrato" />
+      </field>
+    </table>
+    <table id="view_export_previsto">
+      <phrase id="tblcaption" value="view export previsto" />
+      <field id="idcliente">
+        <phrase id="fldcaption" value="idcliente" />
+      </field>
+      <field id="cliente">
+        <phrase id="fldcaption" value="cliente" />
+      </field>
+      <field id="local_idlocal">
+        <phrase id="fldcaption" value="local idlocal" />
+      </field>
+      <field id="cargo">
+        <phrase id="fldcaption" value="cargo" />
+      </field>
+      <field id="funcao_idfuncao">
+        <phrase id="fldcaption" value="funcao idfuncao" />
+      </field>
+      <field id="qtde">
+        <phrase id="fldcaption" value="qtde" />
+      </field>
+    </table>
+    <table id="cargo_copy">
+      <phrase id="tblcaption" value="cargo copy" />
+      <field id="idcargo">
+        <phrase id="fldcaption" value="idcargo" />
+      </field>
+      <field id="cargo">
+        <phrase id="fldcaption" value="cargo" />
+      </field>
+      <field id="abreviado">
+        <phrase id="fldcaption" value="abreviado" />
+      </field>
+      <field id="salario">
+        <phrase id="fldcaption" value="salario" />
+      </field>
+      <field id="nr_horas_mes">
+        <phrase id="fldcaption" value="nr horas mes" />
+      </field>
+      <field id="jornada">
+        <phrase id="fldcaption" value="jornada" />
+      </field>
+      <field id="vt_dia">
+        <phrase id="fldcaption" value="vt dia" />
+      </field>
+      <field id="vr_dia">
+        <phrase id="fldcaption" value="vr dia" />
+      </field>
+      <field id="va_mes">
+        <phrase id="fldcaption" value="va mes" />
+      </field>
+      <field id="benef_social">
+        <phrase id="fldcaption" value="benef social" />
+      </field>
+      <field id="plr">
+        <phrase id="fldcaption" value="plr" />
+      </field>
+      <field id="assis_medica">
+        <phrase id="fldcaption" value="assis medica" />
+      </field>
+      <field id="assis_odonto">
+        <phrase id="fldcaption" value="assis odonto" />
+      </field>
+      <field id="modulo_idmodulo">
+        <phrase id="fldcaption" value="modulo idmodulo" />
+      </field>
+      <field id="periodo_idperiodo">
+        <phrase id="fldcaption" value="periodo idperiodo" />
+      </field>
+      <field id="escala_idescala">
+        <phrase id="fldcaption" value="escala idescala" />
+      </field>
+      <field id="nr_horas_ad_noite">
+        <phrase id="fldcaption" value="nr horas ad noite" />
+      </field>
+      <field id="intrajornada">
+        <phrase id="fldcaption" value="intrajornada" />
+        <phrase id="fldtagvalue1" value="Sim" />
+        <phrase id="fldtagcaption1" value="Sim" />
+        <phrase id="fldtagvalue2" value="Nao" />
+        <phrase id="fldtagcaption2" value="Nao" />
+      </field>
+      <field id="tipo_uniforme_idtipo_uniforme">
+        <phrase id="fldcaption" value="tipo uniforme idtipo uniforme" />
+      </field>
+      <field id="salario_antes">
+        <phrase id="fldcaption" value="salario antes" />
+      </field>
+      <field id="vt_dia_antes">
+        <phrase id="fldcaption" value="vt dia antes" />
+      </field>
+      <field id="vr_dia_antes">
+        <phrase id="fldcaption" value="vr dia antes" />
+      </field>
+      <field id="va_mes_antes">
+        <phrase id="fldcaption" value="va mes antes" />
+      </field>
+      <field id="benef_social_antes">
+        <phrase id="fldcaption" value="benef social antes" />
+      </field>
+      <field id="plr_antes">
+        <phrase id="fldcaption" value="plr antes" />
+      </field>
+      <field id="assis_medica_antes">
+        <phrase id="fldcaption" value="assis medica antes" />
+      </field>
+      <field id="assis_odonto_antes">
+        <phrase id="fldcaption" value="assis odonto antes" />
+      </field>
+      <field id="funcao_idfuncao">
+        <phrase id="fldcaption" value="funcao idfuncao" />
+      </field>
+      <field id="salario1">
+        <phrase id="fldcaption" value="salario 1" />
+      </field>
+    </table>
+    <table id="dissidio">
+      <phrase id="tblcaption" value="Salario Atual" />
+      <field id="idcargo">
+        <phrase id="fldcaption" value="idcargo" />
+      </field>
+      <field id="cargo">
+        <phrase id="fldcaption" value="Cargo/Função" />
+      </field>
+      <field id="salario_antes">
+        <phrase id="fldcaption" value="Salario Antes" />
+      </field>
+      <field id="salario_atual">
+        <phrase id="fldcaption" value="Salario Atual" />
+      </field>
+      <field id="dissidio_anual_iddissidio_anual">
+        <phrase id="fldcaption" value="dissidio anual iddissidio anual" />
+      </field>
+    </table>
+    <table id="beneficios">
+      <phrase id="tblcaption" value="Beneficios" />
+      <field id="idbeneficios">
+        <phrase id="fldcaption" value="idbeneficios" />
+      </field>
+      <field id="data">
+        <phrase id="fldcaption" value="Data" />
+      </field>
+      <field id="vt_dia">
+        <phrase id="fldcaption" value="VT DIA" />
+      </field>
+      <field id="vr_dia">
+        <phrase id="fldcaption" value="VR DIA" />
+      </field>
+      <field id="va_mes">
+        <phrase id="fldcaption" value="VA MES" />
+      </field>
+      <field id="benef_social">
+        <phrase id="fldcaption" value="Beneficio Social" />
+      </field>
+      <field id="plr">
+        <phrase id="fldcaption" value="PLR/ANO" />
+      </field>
+      <field id="assis_medica">
+        <phrase id="fldcaption" value="Assist Médica" />
+      </field>
+      <field id="assis_odonto">
+        <phrase id="fldcaption" value="Assist Odonto" />
+      </field>
+      <field id="dissidio_anual_iddissidio_anual">
+        <phrase id="fldcaption" value="dissidio anual iddissidio anual" />
+      </field>
+    </table>
+    <table id="dissidio_anual">
+      <phrase id="tblcaption" value="Dissidio" />
+      <field id="iddissidio_anual">
+        <phrase id="fldcaption" value="iddissidio anual" />
+      </field>
+      <field id="data">
+        <phrase id="fldcaption" value="Data" />
+      </field>
+      <field id="obs">
+        <phrase id="fldcaption" value="Observações" />
+      </field>
+    </table>
+    <table id="view_contrato_valor_atualizado">
+      <phrase id="tblcaption" value="view contrato valor atualizado" />
+      <field id="idcontrato">
+        <phrase id="fldcaption" value="idcontrato" />
+      </field>
+      <field id="cliente">
+        <phrase id="fldcaption" value="cliente" />
+      </field>
+      <field id="vr_cobrado_anterior">
+        <phrase id="fldcaption" value="vr cobrado anterior" />
+      </field>
+      <field id="valor_reajustado">
+        <phrase id="fldcaption" value="valor reajustado" />
+      </field>
+      <field id="diferenca">
+        <phrase id="fldcaption" value="diferenca" />
+      </field>
+      <field id="margem">
+        <phrase id="fldcaption" value="margem" />
+      </field>
+    </table>
+    <table id="rel_view_contrato_vr_atualizado">
+      <phrase id="tblcaption" value="Contrato x Dissidio" />
+      <field id="idcontrato">
+        <phrase id="fldcaption" value="IdContrato" />
+      </field>
+      <field id="cliente">
+        <phrase id="fldcaption" value="Cliente" />
+      </field>
+      <field id="vr_cobrado_anterior">
+        <phrase id="fldcaption" value="Vr Cobrado Anterior" />
+      </field>
+      <field id="valor_reajustado">
+        <phrase id="fldcaption" value="Vr Custo Reajustado" />
+      </field>
+      <field id="diferenca">
+        <phrase id="fldcaption" value="Diferença R$" />
+      </field>
+      <field id="margem">
+        <phrase id="fldcaption" value="Margem [%]" />
+      </field>
+    </table>
+    <table id="view_rel_cargo_custo_indv">
+      <phrase id="tblcaption" value="view rel cargo custo indv" />
+      <field id="idcontrato">
+        <phrase id="fldcaption" value="idcontrato" />
+      </field>
+      <field id="cliente">
+        <phrase id="fldcaption" value="cliente" />
+      </field>
+      <field id="vr_contrato">
+        <phrase id="fldcaption" value="vr contrato" />
+      </field>
+      <field id="cargo">
+        <phrase id="fldcaption" value="cargo" />
+      </field>
+      <field id="idmodulo">
+        <phrase id="fldcaption" value="idmodulo" />
+      </field>
+      <field id="modulo">
+        <phrase id="fldcaption" value="modulo" />
+      </field>
+      <field id="cargo_idcargo">
+        <phrase id="fldcaption" value="cargo idcargo" />
+      </field>
+      <field id="quantidade">
+        <phrase id="fldcaption" value="quantidade" />
+      </field>
+      <field id="valor">
+        <phrase id="fldcaption" value="valor" />
+      </field>
+      <field id="total">
+        <phrase id="fldcaption" value="total" />
+      </field>
+    </table>
+    <table id="rel_view_rel_cargo_custo_indv">
+      <phrase id="tblcaption" value="Custo x Cargo/Função" />
+      <field id="idcontrato">
+        <phrase id="fldcaption" value="Cont Nr" />
+      </field>
+      <field id="cliente">
+        <phrase id="fldcaption" value="Cliente" />
+      </field>
+      <field id="vr_contrato">
+        <phrase id="fldcaption" value="Vr Contrato" />
+      </field>
+      <field id="cargo">
+        <phrase id="fldcaption" value="Cargo/Função" />
+      </field>
+      <field id="modulo">
+        <phrase id="fldcaption" value="Modulo" />
+      </field>
+      <field id="quantidade">
+        <phrase id="fldcaption" value="Qtde" />
+      </field>
+      <field id="total">
+        <phrase id="fldcaption" value="Vr Total R$" />
+      </field>
+      <field id="cargo_idcargo">
+        <phrase id="fldcaption" value="cargo idcargo" />
+      </field>
+      <field id="valor">
+        <phrase id="fldcaption" value="Vr Unitario" />
+      </field>
+      <field id="idmodulo">
+        <phrase id="fldcaption" value="idmodulo" />
+      </field>
+    </table>
+  </project>
+</ew-language>

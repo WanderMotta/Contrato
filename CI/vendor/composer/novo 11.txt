@@ -1,0 +1,14 @@
+
+Ped Nr
+Nome do Funcionario
+Admissão
+Dt_Inicial
+Nr Dias
+Dt_Final
+Vr Total VT
+Vr Total VR
+Total a PAGAR
+PIX ou Bco/Ag/Cta
+BRUNO FUTRO SILVA - R$ 297,63	(9 Dias VT/VR) - PIX: 11989192311(GEOVANA CRISTINA)
+Grande resumo (CONTAGEM=1)
+CONTAGEM=1					SOMA=R$ 137,70	SOMA=R$ 159,93	SOMA=R$ 297,63	
